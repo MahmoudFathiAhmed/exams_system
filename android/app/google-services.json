@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373738419076",
+    "project_id": "exams-system-4e369",
+    "storage_bucket": "exams-system-4e369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373738419076:android:432c26d37e8f4d306a63d1",
+        "android_client_info": {
+          "package_name": "com.example.exams_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373738419076-es2spj77rh57rujls3rru3jkcq6qvq5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exams_system",
+            "certificate_hash": "bb784a45bb5d98e6d0e548d08f628ad567883960"
+          }
+        },
+        {
+          "client_id": "373738419076-gfcpr0dn1kl3mdmaar95fog8m6fqdcrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHT-HLD-oxo1qxWL9uYyi7K3zLxLc4r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373738419076-gfcpr0dn1kl3mdmaar95fog8m6fqdcrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
